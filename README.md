@@ -2,6 +2,8 @@
 
 Orange Design System Storybook Theme provides a Storybook theme for Orange.
 
+![ods-orange-theme-screenshot](https://user-images.githubusercontent.com/17381666/147080007-e8f64b77-3dc2-420d-a3ab-71a05cb03a22.png)
+
 ## Quick start
 
 * Install with [npm](https://www.npmjs.com/): `npm install ods-storybook-theme --save-dev`
