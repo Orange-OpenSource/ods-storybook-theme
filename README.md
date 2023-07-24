@@ -18,3 +18,9 @@ addons.setConfig({
   theme: OrangeTheme,
 });
 ```
+
+## Supported versions
+
+| ods-storybook-theme | Storybook |
+| ------------------- | --------- |
+| 0.1.0               | 6.x, 7.x  |
