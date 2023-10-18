@@ -2,7 +2,7 @@
 
 Orange Design System Storybook Theme provides a Storybook theme for Orange.
 
-![ods-orange-theme-screenshot](https://user-images.githubusercontent.com/17381666/147080007-e8f64b77-3dc2-420d-a3ab-71a05cb03a22.png)
+![ods-orange-theme-screenshot](https://github.com/Orange-OpenSource/ods-storybook-theme/assets/17381666/3d2571e1-8311-4807-8dad-a401cada4cc6)
 
 ## Quick start
 
