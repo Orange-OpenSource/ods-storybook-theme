@@ -1,6 +1,6 @@
 /*
  * Software Name: ODS Storybook Theme
- * Version: 0.1
+ * Version: 1.0.0
  * SPDX-FileCopyrightText: Copyright (c) 2021 - 2023 Orange SA
  * SPDX-License-Identifier: MIT
  *
