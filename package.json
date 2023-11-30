@@ -1,6 +1,6 @@
 {
   "name": "ods-storybook-theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Provides a Storybook theme for Orange",
   "license": "MIT",
   "main": "OrangeTheme.js"

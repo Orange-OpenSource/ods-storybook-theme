@@ -23,4 +23,4 @@ addons.setConfig({
 
 | ods-storybook-theme | Storybook |
 | ------------------- | --------- |
-| 1.0.0               | 6.x, 7.x  |
+| 1.x                 | 6.x, 7.x  |
