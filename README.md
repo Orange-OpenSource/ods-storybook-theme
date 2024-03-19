@@ -21,6 +21,6 @@ addons.setConfig({
 
 ## Supported versions
 
-| ods-storybook-theme | Storybook |
-| ------------------- | --------- |
-| 1.x                 | 6.x, 7.x  |
+| ods-storybook-theme | Storybook      |
+| ------------------- | -------------- |
+| 1.x                 | 6.x, 7.x, 8.x  |
