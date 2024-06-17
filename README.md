@@ -34,6 +34,10 @@ addons.setConfig({
 | ------------------- | -------------- |
 | 1.x                 | 6.x, 7.x, 8.x  |
 
+## Contributing
+
+Please read through our [contributing guidelines](https://github.com/Orange-OpenSource/ods-storybook-theme/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, ODS Storybook Theme is maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to those rules whenever possible.
