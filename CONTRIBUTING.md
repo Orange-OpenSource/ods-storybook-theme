@@ -1,4 +1,3 @@
-
 # Contributing to Orange Design System Storybook Theme
 
 Looking to contribute something to Orange Design System Storybook Theme? **Here's how you can help.**
