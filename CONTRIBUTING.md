@@ -113,6 +113,12 @@ Adhering to the following process is the best way to get your work included in t
 
 **IMPORTANT**: By submitting a patch, you agree to allow the project owners to license your work under the terms of the [MIT License](LICENSE).
 
+## Code Guidelines
+
+### Checking Coding Style
+
+Format your code before committing to ensure your changes follow our coding standards. Please check the [Developer Guide > Formatting](DEVELOP.md#formatting) section for more information.
+
 ## License
 
 By contributing your code, you agree to license your contribution under the [MIT License](LICENSE).

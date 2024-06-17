@@ -38,6 +38,8 @@ addons.setConfig({
 
 Please read through our [contributing guidelines](https://github.com/Orange-OpenSource/ods-storybook-theme/blob/main/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
+Please refer to the [developer guide](https://github.com/Orange-OpenSource/ods-storybook-theme/blob/main/DEVELOP.md) for information on how to build the library.
+
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, ODS Storybook Theme is maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to those rules whenever possible.
