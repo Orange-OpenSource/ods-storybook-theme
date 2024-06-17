@@ -3,5 +3,12 @@
   "version": "1.1.0",
   "description": "Provides a Storybook theme for Orange",
   "license": "MIT",
-  "main": "OrangeTheme.js"
+  "main": "OrangeTheme.js",
+  "scripts": {
+    "prettier:check": "prettier --check .",
+    "prettier:format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2"
+  }
 }

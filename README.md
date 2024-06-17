@@ -15,7 +15,7 @@
 
 ## Quick start
 
-* Install with [npm](https://www.npmjs.com/): `npm install ods-storybook-theme --save-dev`
+- Install with [npm](https://www.npmjs.com/): `npm install ods-storybook-theme --save-dev`
 
 In order to import the theme into Storybook, create new `.storybook/manager.js` file in your project containing:
 
@@ -30,9 +30,9 @@ addons.setConfig({
 
 ## Supported versions
 
-| ods-storybook-theme | Storybook      |
-| ------------------- | -------------- |
-| 1.x                 | 6.x, 7.x, 8.x  |
+| ods-storybook-theme | Storybook     |
+| ------------------- | ------------- |
+| 1.x                 | 6.x, 7.x, 8.x |
 
 ## Contributing
 
