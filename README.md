@@ -1,8 +1,17 @@
-# ODS Storybook Theme
+<h1 align="center">Orange Design System Storybook Theme</h1>
 
-Orange Design System Storybook Theme provides a Storybook theme for Orange.
+<p align="center">
+  Orange Design System Storybook Theme provides a Storybook theme for Orange.
+</p>
 
 ![ods-orange-theme-screenshot](https://github.com/Orange-OpenSource/ods-storybook-theme/assets/17381666/3d2571e1-8311-4807-8dad-a401cada4cc6)
+
+## Table of contents
+
+- [Quick start](#quick-start)
+- [Supported versions](#supported-versions)
+- [Versioning](#versioning)
+- [Copyright and license](#copyright-and-license)
 
 ## Quick start
 
@@ -24,3 +33,13 @@ addons.setConfig({
 | ods-storybook-theme | Storybook      |
 | ------------------- | -------------- |
 | 1.x                 | 6.x, 7.x, 8.x  |
+
+## Versioning
+
+For transparency into our release cycle and in striving to maintain backward compatibility, ODS Storybook Theme is maintained under [the Semantic Versioning guidelines](https://semver.org/). Sometimes we screw up, but we adhere to those rules whenever possible.
+
+See [the Releases section of our GitHub project](https://github.com/Orange-OpenSource/ods-storybook-theme/releases) for changelogs for each release version of ODS Storybook Theme.
+
+## Copyright and license
+
+Code released under the MIT License.
