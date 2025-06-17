@@ -9,7 +9,7 @@
  * or see the "LICENSE" file for more details.
  */
 
-import { create } from '@storybook/theming/create';
+import { create } from 'storybook/theming/create';
 
 // Source: https://storybook.js.org/docs/react/configure/theming
 // Tip: When working locally on themes, use the --no-manager-cache option
