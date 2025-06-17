@@ -25,7 +25,7 @@ If you are using Visual Studio Code, you can install the Prettier extension. We 
 To release a new version of the library, you need to follow these steps:
 
 1. Update the version number in `package.json` according to the [Semantic Versioning guidelines](https://semver.org/).
-2. Run `npm i` to updated version number in `package-lock.json`.
+2. Run `npm i` to update version number in `package-lock.json`.
 3. Update the version number in the header of `OrangeTheme.js` file.
 4. Update the compatibility table in the README file.
 5. Commit the changes with a message like `chore(release): vX.Y.Z`.
