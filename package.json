@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "prettier": "^3.3.2"
-  }
+  },
+  "files": [
+    "LICENSE",
+    "OrangeTheme.js",
+    "THIRD-PARTY"
+  ]
 }
